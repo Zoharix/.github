@@ -1,8 +1,9 @@
 # 🚀 **ZOHARIX – Intelligent Technology for a Smarter World**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=ZOHARIX+TECHNOLOGIES;AI+%7C+AR+%7C+E-COMMERCE+%7C+SOFTWARE+INNOVATION;Engineering+World-Class+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=ZOHARIX+TECHNOLOGIES;AI+%7C+AR+%7C+E-COMMERCE+%7C+SOFTWARE+INNOVATION;Engineering+World-Class+Digital+Experiences" />
 </p>
+
 <p align="center">
   <img src="https://www.zoharix.tech/assets/img/logo.jpg" alt="Zoharix Logo" width="200"/>
 </p>
