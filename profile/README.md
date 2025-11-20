@@ -21,6 +21,20 @@ We design intelligent systems, high-performance digital products, and scalable t
 
 > **We don’t follow trends — we engineer the technology that creates them.**
 
+
+<p align="center">
+  <a href="https://kelvinagyareyeboah.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Our%20Website-blue?style=flat&logo=appveyor" alt="Portfolio">
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 ---
 
 ## 🏆 **Flagship Products**
