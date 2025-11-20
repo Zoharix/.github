@@ -108,6 +108,10 @@ A modern e-commerce ecosystem built for speed, performance, and intelligent sell
 * Intelligent Automation & APIs
 * Design Systems & User Experience Engineering
 
+<p align="center">
+<img src="https://i.ibb.co/6D3FWq1/2048-removebg.png" alt="2048-removebg" border="0" />
+</p>
+
 ---
 
 ## 🌍 **Our Mission**
