@@ -23,7 +23,7 @@ We design intelligent systems, high-performance digital products, and scalable t
 
 
 <p align="center">
-  <a href="https://kelvinagyareyeboah.netlify.app/" target="_blank">
+  <a href="www.zoharix.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-View%20Our%20Website-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
